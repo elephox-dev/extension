@@ -1,0 +1,6 @@
+*
+
+!.gitignore
+!kernel
+!kernel/**.c
+!kernel/**.h
